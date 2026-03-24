@@ -43,7 +43,7 @@ currently_building:
 
 ## Featured Projects
 
-### [Buildpace AI](https://github.com/devbulchandani/buildpace-ai)
+### [Buildpace AI](https://github.com/devbulchandani/coding-mentor)
 <p> 
   <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring" alt="Spring AI" /> 
   <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge" alt="LLMs" /> 
@@ -53,7 +53,7 @@ currently_building:
 * AI-powered developer mentor that analyzes GitHub repositories to generate architectural insights.
 * Helps developers understand complex codebases faster & reduce onboarding time.
 
-### [Custom Java Storage Engine](https://github.com/devbulchandani/storage-engine)
+### [Custom Java Storage Engine](https://github.com/devbulchandani/kafka-clone)
 <p> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java" alt="Java" /> 
   <img src="https://img.shields.io/badge/NIO-007396?style=for-the-badge" alt="NIO" /> 
