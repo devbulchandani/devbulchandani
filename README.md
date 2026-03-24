@@ -70,7 +70,7 @@ currently_building:
   <img src="https://img.shields.io/badge/Product-00C853?style=for-the-badge" alt="Product" /> 
 </p>
 
-* ** 2nd Runner Up @ Google Gen AI Exchange Hackathon 2025**
+* 2nd Runner Up @ Google Gen AI Exchange Hackathon 2025
 * AI-powered marketplace enabling artisans to reach customers through intelligent recommendations.
 
 ---
