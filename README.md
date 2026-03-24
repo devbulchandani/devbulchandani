@@ -1,7 +1,7 @@
 <div align="center">
-<h1>Hi 👋, I'm Dev Bulchandani</h1>
+<h1>Hi, I'm Dev Bulchandani</h1>
 
-<h3>🚀 Backend + AI Engineer | Building Scalable Systems & Developer Tools</h3>
+<h3>Backend + AI Engineer | Building Scalable Systems & Developer Tools</h3>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Systems+%2B+AI;Distributed+Systems+Enthusiast;Building+LLMs+in+Production;Open+Source+Contributor;Turning+Ideas+into+Scalable+Products" alt="Typing SVG" />
@@ -36,14 +36,14 @@ currently_building:
   - AI-powered Dev Tools
 ```
 
-* 💡 I build backend systems and AI-powered tools that solve real-world problems at scale.
-* 🧠 Passionate about systems design, performance, and intelligent software.
+* I build backend systems and AI-powered tools that solve real-world problems at scale.
+* Passionate about systems design, performance, and intelligent software.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 [Buildpace AI](https://github.com/devbulchandani/buildpace-ai)
+### [Buildpace AI](https://github.com/devbulchandani/buildpace-ai)
 <p> 
   <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring" alt="Spring AI" /> 
   <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge" alt="LLMs" /> 
@@ -61,16 +61,16 @@ currently_building:
 </p>
 
 * Built a low-level storage engine using **Java NIO**, featuring append-only logs & index brokers.
-* 🧠 Inspired by database internals & log-structured storage systems.
+* Inspired by database internals & log-structured storage systems.
 
-### 🏆 [Kalasarthi](https://github.com/devbulchandani/kalasarthi)
+### [Kalasarthi](https://github.com/devbulchandani/kalasarthi)
 <p> 
   <img src="https://img.shields.io/badge/AI-FF4088?style=for-the-badge" alt="AI" /> 
   <img src="https://img.shields.io/badge/Hackathon-FFD700?style=for-the-badge" alt="Hackathon" /> 
   <img src="https://img.shields.io/badge/Product-00C853?style=for-the-badge" alt="Product" /> 
 </p>
 
-* **🥈 2nd Runner Up @ Google Gen AI Exchange Hackathon 2025**
+* ** 2nd Runner Up @ Google Gen AI Exchange Hackathon 2025**
 * AI-powered marketplace enabling artisans to reach customers through intelligent recommendations.
 
 ---
@@ -81,7 +81,7 @@ currently_building:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=java,ts,js,sql,spring,react,nextjs,postgres,mongodb,redis,docker,git" alt="Tech Stack" /> 
@@ -89,7 +89,7 @@ currently_building:
 
 ---
 
-## 📊 GitHub Insights
+## GitHub Insights
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=devbulchandani&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" /> 
@@ -102,7 +102,7 @@ currently_building:
 
 ---
 
-## 🌱 Open Source
+## Open Source
 
 <p> 
   <img src="https://img.shields.io/badge/Spring%20AI-Contributor-6DB33F?style=for-the-badge&logo=spring" alt="Spring AI Contributor" /> 
@@ -114,7 +114,7 @@ currently_building:
 
 ---
 
-## 🚧 Currently Building
+## Currently Building
 
 * ⚙️ **Production-grade storage engine**
 * 🤖 **LLM orchestration** with Spring AI
@@ -122,7 +122,7 @@ currently_building:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/dev-bulchandani-51b032291/"> 
