@@ -20,7 +20,7 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
 ```yaml
 name: Dev Bulchandani
@@ -51,9 +51,9 @@ currently_building:
 </p>
 
 * AI-powered developer mentor that analyzes GitHub repositories to generate architectural insights.
-* ⚡ Helps developers understand complex codebases faster & reduce onboarding time.
+* Helps developers understand complex codebases faster & reduce onboarding time.
 
-### ⚙️ [Custom Java Storage Engine](https://github.com/devbulchandani/storage-engine)
+### [Custom Java Storage Engine](https://github.com/devbulchandani/storage-engine)
 <p> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java" alt="Java" /> 
   <img src="https://img.shields.io/badge/NIO-007396?style=for-the-badge" alt="NIO" /> 
